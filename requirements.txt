@@ -1,3 +1,6 @@
 matplotlib
 pandas
+redshift_connector
 requests
+sqlalchemy
+sqlalchemy-redshift
